@@ -1,0 +1,27 @@
+ body {
+    background-color: linen
+}
+
+h1 {
+    color: maroon;
+}
+
+h2 {
+    color: maroon;
+ }
+h3 {
+         color: maroon;       
+     } 
+
+     .img-circle {
+        border-radius: 50%;
+      }
+
+      .table-responsive {
+        min-height: .01%;
+        overflow-x: auto;}
+
+        table {
+            background-color: grey;
+          }
+    
